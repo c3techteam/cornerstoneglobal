@@ -1,0 +1,32 @@
+ABOUT US  ------ KLAR WEBSITE
+
+MEET OUR PASTORS
+ MESSAGE 
+
+
+FAITH LIFE CONFERENCE -FestavaLive
+3DAYS OF GLORY- resturantly website
+BIBLE HERMUENTICS
+SCHOOL OF MINISTRY - WOODY
+
+
+E-LIBRARY 
+TESTIMONIES - KLAR
+SPECTRUM OF INSIGHT ----------------- PHP| JS | REACT |||
+FITH CONFESSION 
+VIDEO -fotogency
+GALLERY - fotogency
+
+CONTACT ---------- ENSURANCE & KLAR system
+LIVE- church marine || church on the coast
+GIVE - montana & give online(dunamis) footgency
+
+remeber to put the automatic copyright on all the folders page
+also remember to add cheveron to top on each created site
+
+
+    so i stopped at cornerstone and you part 1 
+    keep deleting    <span class="copyright_text">Copyright © 2022 <a href="#">Cornerstone christian centre.</a>All rights reserved</span>
+
+    everywhere in the audio player
+    

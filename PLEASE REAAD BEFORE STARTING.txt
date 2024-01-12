@@ -1,0 +1,41 @@
+CACHE THE WEBSITE
+
+ENSURE TO PUT THIS EVERYWHERE
+
+
+ <meta http-equiv="Cache-control" content="public"
+CONVERT THE IMAGES TO WEBP AND COMPRESS THEM
+ENABLING THE WEB CACHINJG
+. Use asynchronous and defer loading for your CSS and JavaScript files.
+
+Minify CSS, JavaScript, and HTML.
+OR YOU WATCH THEVIDEOS
+/* php minify*/
+function minify($content, $path = '') {
+  $output = preg_replace(
+        array(
+          '/ {2,}/',
+          '/<!--.*?-->|\t|(?:\r?\n[ \t]*)+/s'
+        ), 
+        array(
+          ' ',
+          ''
+        ), 
+        $content
+      );
+  return $output;
+}
+
+//minify JavaScript
+$url = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js";
+echo minify(file_get_contents($url));
+
+//minify HTML
+$url = "https://reeteshghimire.com.np/";
+echo minify(file_get_contents($url));
+
+//minify CSS
+$url = "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.0-beta1/css/bootstrap.css";
+echo minify(file_get_contents($url));
+
+ Leverage a content delivery network (CDN).
